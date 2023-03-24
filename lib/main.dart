@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('Custom Widget'),
         ),
-        body: FoodListView(),
+        body: ShopListView(),
       ),
     );
   }
